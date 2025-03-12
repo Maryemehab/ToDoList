@@ -1,4 +1,4 @@
 # ToDoList
 
-##Expo Snack Link
-[Expo Snack] (https://snack.expo.dev/@maryemehab/todolist)
+# Expo Snack Link
+https://snack.expo.dev/@maryemehab/todolist
